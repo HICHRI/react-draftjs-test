@@ -1,0 +1,24 @@
+{
+  "status": [
+    {
+      "id": 1,
+      "userName": "HICHRI Houssem",
+      "userArticle": "example article 1"
+    },
+    {
+      "id": 2,
+      "userName": "HICHRI Houssem",
+      "contestName": "example article 2"
+    },
+    {
+      "id": 3,
+      "userName": "HICHRI Houssem",
+      "contestName": "example article 3"
+    },
+    {
+      "id": 4,
+      "userName": "HICHRI Houssem",
+      "contestName": "example article 4"
+    }
+  ]
+}
